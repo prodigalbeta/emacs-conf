@@ -1,0 +1,1 @@
+/home/carrie/.config/emacs/elpaca/repos/base16-emacs/build/base16-everforest-dark-hard-theme.el

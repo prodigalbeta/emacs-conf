@@ -1,0 +1,1 @@
+/home/carrie/.config/emacs/elpaca/repos/nerd-icons/nerd-icons-faces.el

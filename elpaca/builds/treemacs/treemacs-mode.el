@@ -1,0 +1,1 @@
+/home/carrie/.config/emacs/elpaca/repos/treemacs/src/elisp/treemacs-mode.el

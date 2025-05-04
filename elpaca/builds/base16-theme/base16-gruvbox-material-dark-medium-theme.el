@@ -1,0 +1,1 @@
+/home/carrie/.config/emacs/elpaca/repos/base16-emacs/build/base16-gruvbox-material-dark-medium-theme.el

@@ -1,0 +1,1 @@
+/home/carrie/.config/emacs/elpaca/repos/company-mode/company-etags.el
