@@ -1,1 +1,0 @@
-/home/carrie/.config/emacs/elpaca/repos/swiper/ivy-overlay.el

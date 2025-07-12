@@ -1,1 +1,0 @@
-("~/documents/projects/cpp_learning/SDL_practice/")

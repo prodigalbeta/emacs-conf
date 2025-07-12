@@ -1,1 +1,0 @@
-/home/carrie/.config/emacs/elpaca/repos/base16-emacs/base16-theme.el

@@ -1,1 +1,0 @@
-/home/carrie/.config/emacs/elpaca/repos/lsp-mode/clients/lsp-cobol.el

@@ -1,1 +1,0 @@
-/home/carrie/.config/emacs/elpaca/repos/company-mode/company-tng.el

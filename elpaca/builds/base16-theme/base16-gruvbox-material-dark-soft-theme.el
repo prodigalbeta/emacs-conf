@@ -1,1 +1,0 @@
-/home/carrie/.config/emacs/elpaca/repos/base16-emacs/build/base16-gruvbox-material-dark-soft-theme.el
